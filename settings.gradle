@@ -1,0 +1,5 @@
+rootProject.name = 'thermometer'
+
+include 'thermometer-api'
+include 'thermometer-impl'
+
